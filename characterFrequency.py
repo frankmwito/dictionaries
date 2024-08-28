@@ -1,0 +1,1 @@
+# count the frequency of each character in a given string and store the result in a dictionary
